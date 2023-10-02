@@ -1,0 +1,7 @@
+---
+DB_driver: 'ODBC Driver 17 for SQL Server'
+DB_host: 'localhost'
+DB_database: 'Sandbox'
+DB_trustedConnection: True
+DB_userName: 'username'
+DB_password: 'password'
